@@ -1,0 +1,531 @@
+2023-05-07 04:55:09 [::1][-][35696rga8mjc0rb0u7b8s73v01][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "daftarmatakuliah/index". in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php:561
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('daftarmatakulia...', Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2023-05-07 04:55:09 [::1][-][35696rga8mjc0rb0u7b8s73v01][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '35696rga8mjc0rb0u7b8s73v01'
+    '_csrf' => '72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '63449'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/daftarmatakuliah/index'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/daftarmatakuliah/index'
+    'PHP_SELF' => '/index.php/daftarmatakuliah/index'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=35696rga8mjc0rb0u7b8s73v01; _csrf=72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1683435309.5349
+    'REQUEST_TIME' => 1683435309
+]
+2023-05-07 04:59:19 [::1][-][35696rga8mjc0rb0u7b8s73v01][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "daftarmatakuliah". in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php:561
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('daftarmatakulia...', Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2023-05-07 04:59:19 [::1][-][35696rga8mjc0rb0u7b8s73v01][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '35696rga8mjc0rb0u7b8s73v01'
+    '_csrf' => '72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '63277'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/daftarmatakuliah'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/daftarmatakuliah'
+    'PHP_SELF' => '/index.php/daftarmatakuliah'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=35696rga8mjc0rb0u7b8s73v01; _csrf=72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1683435559.4767
+    'REQUEST_TIME' => 1683435559
+]
+2023-05-07 05:01:47 [::1][-][35696rga8mjc0rb0u7b8s73v01][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: daftar-matakuliah/view in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php:149
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('view', Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('daftar-matakuli...', Array)
+#2 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2023-05-07 05:01:47 [::1][-][35696rga8mjc0rb0u7b8s73v01][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '35696rga8mjc0rb0u7b8s73v01'
+    '_csrf' => '72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '63311'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/daftar-matakuliah/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/daftar-matakuliah/view'
+    'PHP_SELF' => '/index.php/daftar-matakuliah/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=35696rga8mjc0rb0u7b8s73v01; _csrf=72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1683435707.5007
+    'REQUEST_TIME' => 1683435707
+]
+2023-05-07 05:05:16 [::1][-][35696rga8mjc0rb0u7b8s73v01][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: daftar-matakuliah/update in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php:149
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('update', Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('daftar-matakuli...', Array)
+#2 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2023-05-07 05:05:16 [::1][-][35696rga8mjc0rb0u7b8s73v01][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '35696rga8mjc0rb0u7b8s73v01'
+    '_csrf' => '72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '63385'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/daftar-matakuliah/update'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/daftar-matakuliah/update'
+    'PHP_SELF' => '/index.php/daftar-matakuliah/update'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=35696rga8mjc0rb0u7b8s73v01; _csrf=72dc3cb252e415577f98904cec06c26d3e0484dbdc4243cf8b4d5799cccaffe3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Q83mxFKpND5GoYRtdwhB-gEU_yQYtUAp%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1683435916.166
+    'REQUEST_TIME' => 1683435916
+]
+2023-05-09 04:59:12 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: mahasiswa/ in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php:149
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('', Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('mahasiswa', Array)
+#2 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2023-05-09 04:59:12 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '56801'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/mahasiswa'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/mahasiswa'
+    'PHP_SELF' => '/index.php/mahasiswa'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => '_csrf=e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1683608352.361
+    'REQUEST_TIME' => 1683608352
+]
+2023-05-09 04:59:29 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Controller.php:202
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\InlineAction.php(51): yii\web\Controller->bindActionParams(Object(yii\base\InlineAction), Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#2 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('detail', Array)
+#3 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('mahasiswa/detai...', Array)
+#4 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#5 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#6 {main}
+2023-05-09 04:59:29 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1\";}'
+    'PHPSESSID' => 's5jhj2h0duv5dsnptkke82j1g2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '56817'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/mahasiswa/detail'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/mahasiswa/detail'
+    'PHP_SELF' => '/index.php/mahasiswa/detail'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => '_csrf=e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1%22%3B%7D; PHPSESSID=s5jhj2h0duv5dsnptkke82j1g2'
+    'REQUEST_TIME_FLOAT' => 1683608369.1905
+    'REQUEST_TIME' => 1683608369
+]
+2023-05-09 04:59:43 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][error][yii\base\ViewNotFoundException] yii\base\ViewNotFoundException: The view file does not exist: C:\laragon\www\prak-web-60200121049\views\mahasiswa\detail?id=2.php in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\View.php:233
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('C:\\laragon\\www\\...', Array, Object(app\controllers\MahasiswaController))
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php(407): yii\base\View->render('detail?id=2', Array, Object(app\controllers\MahasiswaController))
+#2 C:\laragon\www\prak-web-60200121049\controllers\MahasiswaController.php(14): yii\base\Controller->render('detail?id=2')
+#3 [internal function]: app\controllers\MahasiswaController->actionDetail()
+#4 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#5 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#6 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('detail', Array)
+#7 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('mahasiswa/detai...', Array)
+#8 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#10 {main}
+2023-05-09 04:59:43 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1\";}'
+    'PHPSESSID' => 's5jhj2h0duv5dsnptkke82j1g2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '56826'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/mahasiswa/detail'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/mahasiswa/detail'
+    'PHP_SELF' => '/index.php/mahasiswa/detail'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => '_csrf=e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1%22%3B%7D; PHPSESSID=s5jhj2h0duv5dsnptkke82j1g2'
+    'REQUEST_TIME_FLOAT' => 1683608383.4249
+    'REQUEST_TIME' => 1683608383
+]
+2023-05-09 05:06:52 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Controller.php:202
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\InlineAction.php(51): yii\web\Controller->bindActionParams(Object(yii\base\InlineAction), Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#2 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('detail', Array)
+#3 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('mahasiswa/detai...', Array)
+#4 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#5 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#6 {main}
+2023-05-09 05:06:52 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1\";}'
+    'PHPSESSID' => 's5jhj2h0duv5dsnptkke82j1g2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '56846'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/mahasiswa/detail'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/mahasiswa/detail'
+    'PHP_SELF' => '/index.php/mahasiswa/detail'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => '_csrf=e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1%22%3B%7D; PHPSESSID=s5jhj2h0duv5dsnptkke82j1g2'
+    'REQUEST_TIME_FLOAT' => 1683608812.5184
+    'REQUEST_TIME' => 1683608812
+]
+2023-05-09 05:06:59 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: mahasiswa/ in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Controller.php:149
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('', Array)
+#1 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('mahasiswa', Array)
+#2 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\laragon\www\prak-web-60200121049\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\laragon\www\prak-web-60200121049\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2023-05-09 05:06:59 [::1][-][s5jhj2h0duv5dsnptkke82j1g2][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1\";}'
+    'PHPSESSID' => 's5jhj2h0duv5dsnptkke82j1g2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\laragon\\www\\prak-web-60200121049\\web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '56856'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/mahasiswa'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\laragon\\www\\prak-web-60200121049\\web\\index.php'
+    'PATH_INFO' => '/mahasiswa'
+    'PHP_SELF' => '/index.php/mahasiswa'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => '_csrf=e55f13cc55fc919f16d0af2cc50ff735be3c9e1438aa715925538b87d225f3c4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22IqC1ETgUUH7mmieAuf49WZF3QSYmRtr1%22%3B%7D; PHPSESSID=s5jhj2h0duv5dsnptkke82j1g2'
+    'REQUEST_TIME_FLOAT' => 1683608819.878
+    'REQUEST_TIME' => 1683608819
+]

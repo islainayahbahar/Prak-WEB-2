@@ -9,4 +9,10 @@ class MahasiswaController extends \yii\web\Controller
         return $this->render('profil');
     }
 
+    public function actionDetail($id)
+    {
+        // return "<h1>mahasiswa?id=</h1>" . $id . "</h1";
+        return "<h1>Ini Hasilnya</h1>";
+    }
+
 }
