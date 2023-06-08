@@ -1,15 +1,15 @@
 <?php
 namespace app\controllers;
 
-use app\models\Mahasiswa049;
+use app\models\Survei;
 use yii\data\ActiveDataProvider;
 
 
-class MahasiswaController extends \yii\web\Controller
+class SurveiController extends \yii\web\Controller
 {
     public function actionIndex()
     {
-        $query = Mahasiswa049::find();
+        $query = Survei::find();
         $dataProvider = new ActiveDataProvider([
             'query' => $query
         ]);
@@ -17,11 +17,4 @@ class MahasiswaController extends \yii\web\Controller
             'dataProvider' => $dataProvider
         ]);
     }
-
-    public function actionDetail($id)
-    {
-        // return "<h1>mahasiswa?id=</h1>" . $id . "</h1";
-        return "<h1>Ini Hasilnya</h1>";
-    }
-
 }
